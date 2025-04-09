@@ -3,8 +3,8 @@
 
 :root {
     --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-fundo: #e2e1e1;
+    --alto-contraste-texto: #0c0808;
     --alto-contraste-link: #ffd700;
 }
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #80128a;
     font-weight: 600;
 }
 
