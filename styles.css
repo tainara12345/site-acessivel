@@ -3,7 +3,7 @@
 
 :root {
     --laranja-claro: #fc8e34f6;
-    --alto-contraste-fundo: hsla(29, 88%, 50%, 0.966);
+    --alto-contraste-fundo: hsla(27, 98%, 48%, 0.966);
     --alto-contraste-texto: #0c08080e;
     --alto-contraste-link: #f4f0f709;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #cc0f08;
+    background-color: #f1ab71;
 }
 
 
