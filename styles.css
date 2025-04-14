@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #8a16f7;
-    --alto-contraste-fundo: #d018e9;
-    --alto-contraste-texto: #0c0808;
-    --alto-contraste-link: #820be4;
+    --laranja-claro: #8a16f718;
+    --alto-contraste-fundo: hsla(291, 30%, 95%, 0);
+    --alto-contraste-texto: #0c08080e;
+    --alto-contraste-link: #f4f0f709;
 }
 
 body {
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #80128a;0
+    color: #80128a0a;0
 }
 
 .inicio-fundo {
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #c60ddf;
+    background-color: #c70ddf07;
 
 }
 
